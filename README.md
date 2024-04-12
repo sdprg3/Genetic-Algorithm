@@ -1,3 +1,3 @@
 # Genetic-Algorithm
 
-Used Jupyter notebook
+Used Jupyter notebook for python
